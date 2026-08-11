@@ -77,16 +77,6 @@
       "supportedCodecs": ["Opus 48kHz", "VP8"],
       "status": "online",
       "isFavorite": false
-    },
-    {
-      "name": "bholabhai5692",
-      "netCallId": "BHOLABHAI5692",
-      "webrtcPeerId": "peer_bholabhai5692",
-      "webrtcSignalingUri": "webrtc://bholabhai5692.netcall.io/call",
-      "iceCandidate": "candidate:6 1 UDP 2122260223 192.168.1.106 50005 typ host",
-      "supportedCodecs": ["Opus 48kHz", "VP8"],
-      "status": "online",
-      "isFavorite": false
     }
   ]
 }
