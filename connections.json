@@ -1,0 +1,35 @@
+{
+  "app": "NetCall HD Voice",
+  "user": {
+    "name": "Alex Rivera",
+    "netCallId": "NC-782914",
+    "roomCode": "8839"
+  },
+  "connections": [
+    {
+      "name": "Aarav Sharma",
+      "netCallId": "NC-8821",
+      "isFavorite": true
+    },
+    {
+      "name": "Ananya Singh",
+      "netCallId": "NC-9943",
+      "isFavorite": true
+    },
+    {
+      "name": "Priya Patel",
+      "netCallId": "NC-5532",
+      "isFavorite": true
+    },
+    {
+      "name": "Kabir Mehta",
+      "netCallId": "NC-3371",
+      "isFavorite": false
+    },
+    {
+      "name": "Rohan Verma",
+      "netCallId": "NC-1104",
+      "isFavorite": false
+    }
+  ]
+}
