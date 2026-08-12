@@ -23,22 +23,12 @@
   "active_webrtc_session": {
     "roomCode": "8839",
     "sessionId": "webrtc-session-bholabhai5692",
-    "sdpState": "have-local-answer",
-    "targetNetCallId": "MAFIYACODING001-BEEP",
+    "sdpState": "idle",
+    "targetNetCallId": "",
     "sdp": "",
     "iceCandidates": [],
     "iceGatheringState": "complete"
   },
   "connections": [
-    {
-      "name": "mafiyacoding001-beep",
-      "netCallId": "MAFIYACODING001-BEEP",
-      "webrtcPeerId": "peer_mafiyacoding001beep",
-      "webrtcSignalingUri": "webrtc://mafiyacoding001-beep.netcall.io/call",
-      "iceCandidate": "candidate:1 1 UDP 2122260223 192.168.1.101 50000 typ host",
-      "supportedCodecs": ["Opus 48kHz", "VP8"],
-      "status": "online",
-      "isFavorite": false
-    }
   ]
 }
