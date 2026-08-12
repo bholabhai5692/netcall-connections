@@ -23,10 +23,10 @@
   "active_webrtc_session": {
     "roomCode": "8839",
     "sessionId": "webrtc-session-bholabhai5692",
-    "sdpState": "have-local-offer",
-    "targetNetCallId": "MAFIYACODING001-BEEP",
-    "sdp": "v=0\r\no=- 7658316905091042635 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=extmap-allow-mixed\r\na=msid-semantic: WMS ARDAMS\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 63 9 102 0 8 13 110 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:Wzuy\r\na=ice-pwd:4wLFP2Jt96ycqrP+nCORcl80\r\na=ice-options:trickle renomination\r\na=fingerprint:sha-256 5C:D3:AE:EC:E0:15:94:ED:8A:C0:9A:3D:33:82:AA:32:EA:BE:7A:C1:68:00:5F:3A:4A:63:18:3F:FE:00:4E:1D\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:ARDAMS ARDAMSa0\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:63 red/48000/2\r\na=fmtp:63 111/111\r\na=rtpmap:9 G722/8000\r\na=rtpmap:102 ILBC/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:13 CN/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:126 telephone-event/8000\r\na=ssrc:3702201459 cname:9AKE3ddLax9jgbsW\r\na=ssrc:3702201459 msid:ARDAMS ARDAMSa0\r\n",
-    "iceCandidates": ["0|0|candidate:4281307205 1 udp 2122260223 10.0.2.16 56436 typ host generation 0 ufrag Wzuy network-id 3 network-cost 10","0|0|candidate:1312743728 1 udp 2122063615 127.0.0.1 34809 typ host generation 0 ufrag Wzuy network-id 1","0|0|candidate:3733989293 1 udp 2122187263 fec0::202:b0c7:6dfc:bf15 56503 typ host generation 0 ufrag Wzuy network-id 4 network-cost 10","0|0|candidate:1850466575 1 udp 2122136831 ::1 51117 typ host generation 0 ufrag Wzuy network-id 2","0|0|candidate:392953866 1 udp 1686052607 108.177.29.2 29074 typ srflx raddr 10.0.2.16 rport 56436 generation 0 ufrag Wzuy network-id 3 network-cost 10","0|0|candidate:743602186 1 udp 1685989631 2001:4860:101e:fe00:fffe:9c3b:54f7:6975 63307 typ srflx raddr fec0::202:b0c7:6dfc:bf15 rport 56503 generation 0 ufrag Wzuy network-id 4 network-cost 10"],
+    "sdpState": "idle",
+    "targetNetCallId": "",
+    "sdp": "",
+    "iceCandidates": [],
     "iceGatheringState": "complete"
   },
   "connections": [
