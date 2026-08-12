@@ -25,6 +25,8 @@
     "sessionId": "webrtc-session-bholabhai5692",
     "sdpState": "idle",
     "targetNetCallId": "",
+    "sdp": "",
+    "iceCandidates": [],
     "iceGatheringState": "complete"
   },
   "connections": [
