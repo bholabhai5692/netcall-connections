@@ -7,8 +7,8 @@
     "iceCandidate": "candidate:1 1 UDP 2122260223 192.168.1.101 50000 typ host",
     "protocol": "WebRTC \/ SDP + ICE Candidates",
     "status": "WebRTC P2P Direct Tunnel Established",
-    "timestamp": 1786611395465,
+    "timestamp": 1786611548144,
     "date": "2026-08-13",
-    "time": "01:56:35 AM"
+    "time": "02:29:08 pm"
   }
 ]
