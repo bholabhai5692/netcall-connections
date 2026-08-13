@@ -17,5 +17,12 @@
     ]
   },
   "connections": [
+    {
+      "name": "mafiyacoding001-beep",
+      "githubUsername": "@mafiyacoding001-beep",
+      "webrtcPeerId": "peer_mafiyacoding001-beep",
+      "status": "online",
+      "isFavorite": true
+    }
   ]
 }
