@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": 1,
+    "sessionId": "webrtc-session-1786627734854",
+    "roomCode": "8839",
+    "peerGithubUsername": "@mafiyacoding001-beep",
+    "iceCandidate": "candidate:1 1 UDP 2122260223 192.168.1.108 59824 typ host",
+    "protocol": "WebRTC \/ SDP + ICE Candidates",
+    "status": "WebRTC P2P Direct Tunnel Established",
+    "timestamp": 1786627734855,
+    "date": "2026-08-13",
+    "time": "06:58:54 pm"
+  }
+]
