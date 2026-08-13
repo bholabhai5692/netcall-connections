@@ -1,9 +1,9 @@
 {
   "app": "NetCall HD Voice",
-  "recycledAt": 1786640732189,
-  "recycledDate": "2026-08-13 22:35:32",
+  "recycledAt": 1786643408914,
+  "recycledDate": "2026-08-13 23:20:08",
   "autoDeleteAfterDays": 30,
-  "expirationTimestamp": 1789232732189,
+  "expirationTimestamp": 1789235408914,
   "status": "In Recycle Bin (Auto deletes in 30 days)",
   "contacts": [
     {
@@ -475,72 +475,7 @@
       "githubUsername": "@+918053081926"
     }
   ],
-  "incomingMessages": [
-    {
-      "senderName": "Mafiyacoding001-beep",
-      "senderGithubUsername": "@mafiyacoding001-beep",
-      "messageText": "hello",
-      "timestamp": 1786635141372,
-      "date": "2026-08-13",
-      "time": "09:02:21 PM"
-    }
-  ],
-  "outgoingMessages": [
-    {
-      "recipientName": "Mafiyacoding001-beep",
-      "recipientGithubUsername": "@mafiyacoding001-beep",
-      "messageText": "🎙️ Voice Note (0:05)",
-      "timestamp": 1786640017517,
-      "date": "2026-08-13",
-      "time": "10:23:37 pm"
-    },
-    {
-      "recipientName": "Mafiyacoding001-beep",
-      "recipientGithubUsername": "@mafiyacoding001-beep",
-      "messageText": "🎙️ Voice Note (0:05)",
-      "timestamp": 1786639994340,
-      "date": "2026-08-13",
-      "time": "10:23:14 pm"
-    },
-    {
-      "recipientName": "Mafiyacoding001-beep",
-      "recipientGithubUsername": "@mafiyacoding001-beep",
-      "messageText": "hi",
-      "timestamp": 1786637483679,
-      "date": "2026-08-13",
-      "time": "09:41:23 pm"
-    }
-  ],
-  "callLogs": [
-    {
-      "callerName": "mafiyacoding001-beep",
-      "githubUsername": "@mafiyacoding001-beep",
-      "timestamp": 1786640713613,
-      "durationSeconds": 495
-    },
-    {
-      "callerName": "mafiyacoding001-beep",
-      "githubUsername": "@mafiyacoding001-beep",
-      "timestamp": 1786640712669,
-      "durationSeconds": 495
-    },
-    {
-      "callerName": "mafiyacoding001-beep",
-      "githubUsername": "@mafiyacoding001-beep",
-      "timestamp": 1786639480022,
-      "durationSeconds": 150
-    },
-    {
-      "callerName": "Mafiyacoding001-beep",
-      "githubUsername": "@mafiyacoding001-beep",
-      "timestamp": 1786637895808,
-      "durationSeconds": 99
-    },
-    {
-      "callerName": "Mafiyacoding001-beep",
-      "githubUsername": "@mafiyacoding001-beep",
-      "timestamp": 1786637604546,
-      "durationSeconds": 80
-    }
-  ]
+  "incomingMessages": [],
+  "outgoingMessages": [],
+  "callLogs": []
 }
