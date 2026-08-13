@@ -17,5 +17,19 @@
     ]
   },
   "connections": [
+    {
+      "name": "Bholabhai5692",
+      "githubUsername": "@bholabhai5692",
+      "webrtcPeerId": "peer_bholabhai5692",
+      "status": "online",
+      "isFavorite": false
+    },
+    {
+      "name": "Mafiyacoding001-beep",
+      "githubUsername": "@mafiyacoding001-beep",
+      "webrtcPeerId": "peer_mafiyacoding001-beep",
+      "status": "online",
+      "isFavorite": false
+    }
   ]
 }
