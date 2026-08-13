@@ -34,5 +34,17 @@
     "timestamp": 1786635344117,
     "date": "2026-08-13",
     "time": "09:05:44 pm"
+  },
+  {
+    "id": 4,
+    "sessionId": "handshake-session-1786637463235",
+    "roomCode": "8839",
+    "peerGithubUsername": "@mafiyacoding001-beep",
+    "iceCandidate": "candidate:1 1 UDP 2122260223 192.168.1.188 54321 typ host",
+    "protocol": "WebRTC E2EE Handshake \/ SDP + Barcode Exchange",
+    "status": "E2EE Privacy Barcode Handshake Verified",
+    "timestamp": 1786637463235,
+    "date": "2026-08-13",
+    "time": "09:41:03 pm"
   }
 ]
